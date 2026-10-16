@@ -16,7 +16,8 @@ npm start
 Abrí http://localhost:3000
 
 ## Notas
-- Rutas internas: `#inicio`, `#tienda`, `#productos`, `#carrito`.
+- Rutas internas: `#inicio`, `#productos`, `#contacto`, `#carrito`.
 - El carrito y el idioma se guardan en el navegador del cliente.
-- Pedidos y contacto por WhatsApp: 0987 660 000 (wa.me/595987660000).
+- Pedidos por WhatsApp: 0987 660 000 (wa.me/595987660000).
+- Formulario de contacto → EspoCRM (Lead Capture). Si los leads no llegan, habilitar el dominio de Railway en los orígenes permitidos (CORS) del CRM.
 - Para actualizar: editar el diseño, re-exportar `index.html` y hacer push.
