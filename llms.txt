@@ -1,0 +1,22 @@
+# Kings'n Queens Caffetteria
+
+> Da fazenda para sua casa. Kings'n Queens sells Café Dona Irani in Paraguay: coffee grown, harvested and roasted on Fazenda Dona Irani in Gália, São Paulo, Brazil. Orders are confirmed on WhatsApp.
+
+The site is available in Spanish, English and Portuguese. Prices are reference prices in guaraníes and subject to confirmation.
+
+## Coffees
+
+- [Gourmet, whole bean, 1 kg](https://www.kingsnqueens.com.py/#p-gourmet): 100% Mundo Novo Arabica, selectively harvested, light roast.
+- [Superior, whole bean, 1 kg](https://www.kingsnqueens.com.py/#p-superior): selected Arabica, medium roast.
+- [Tradicional, ground, 500 g](https://www.kingsnqueens.com.py/#p-tradicional): 100% Arabica, dark roast.
+
+## About
+
+- [The farm](https://www.kingsnqueens.com.py/#finca): history since 1936, 108 hectares of Atlantic Forest, varieties and harvest calendar.
+- [The journey](https://www.kingsnqueens.com.py/#recorrido): every stage from the farm to the buyer's home.
+- [How the grading works](https://www.kingsnqueens.com.py/#clasificacion): the three ABIC quality tiers.
+
+## Contact
+
+- [Order on WhatsApp](https://wa.me/595987660000): 0987 660 000.
+- [Contact form](https://www.kingsnqueens.com.py/#contacto): general enquiries, wholesale and franchising.
